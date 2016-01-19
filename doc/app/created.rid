@@ -1,0 +1,6 @@
+Sun, 17 Jan 2016 22:25:13 -0500
+README.rdoc	Sun, 17 Jan 2016 21:05:47 -0500
+app/controllers/application_controller.rb	Sun, 17 Jan 2016 21:05:47 -0500
+app/helpers/application_helper.rb	Sun, 17 Jan 2016 21:05:47 -0500
+app/models/project.rb	Sun, 17 Jan 2016 22:19:09 -0500
+app/models/user.rb	Sun, 17 Jan 2016 22:19:11 -0500
